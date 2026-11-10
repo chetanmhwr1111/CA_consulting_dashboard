@@ -1,8 +1,8 @@
-<img width="2866" height="1574" alt="local_database_management_dashboard" src="https://github.com/user-attachments/assets/5858173a-7b8d-4ed0-a636-da915b45ee64" />
-
 # CA Consulting Management Dashboard
 
 A lightweight, local management workspace built with **Streamlit** for Chartered Accountants and financial consultants. This application provides real-time client tracking, core financial metrics, and follow-up schedules from a single interface.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OEZ5bCCjgPM?si=ZdMrlmGThFXqzXVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 📊 Features
 
